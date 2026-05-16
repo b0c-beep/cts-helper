@@ -1,6 +1,6 @@
-package ro.ase.csie.cts.tests.test1.models;
+package ro.ase.csie.cts.tests.test1.sub1_proxy.models;
 
-import ro.ase.csie.cts.tests.test1.abstracts.IHospital;
+import ro.ase.csie.cts.tests.test1.sub1_proxy.abstracts.IHospital;
 
 import java.util.ArrayList;
 import java.util.List;

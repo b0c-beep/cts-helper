@@ -1,9 +1,9 @@
-package ro.ase.csie.cts.tests.test1;
+package ro.ase.csie.cts.tests.test1.sub1_proxy;
 
-import ro.ase.csie.cts.tests.test1.abstracts.IHospital;
-import ro.ase.csie.cts.tests.test1.models.Hospital;
-import ro.ase.csie.cts.tests.test1.models.HospitalGuest;
-import ro.ase.csie.cts.tests.test1.models.RestrictedHospitalProxy;
+import ro.ase.csie.cts.tests.test1.sub1_proxy.abstracts.IHospital;
+import ro.ase.csie.cts.tests.test1.sub1_proxy.models.Hospital;
+import ro.ase.csie.cts.tests.test1.sub1_proxy.models.HospitalGuest;
+import ro.ase.csie.cts.tests.test1.sub1_proxy.models.RestrictedHospitalProxy;
 
 public class Main {
     public static void main(String[] args) {

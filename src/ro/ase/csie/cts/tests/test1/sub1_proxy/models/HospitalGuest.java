@@ -1,4 +1,4 @@
-package ro.ase.csie.cts.tests.test1.models;
+package ro.ase.csie.cts.tests.test1.sub1_proxy.models;
 
 public class HospitalGuest {
     private String name;
